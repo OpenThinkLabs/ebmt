@@ -1,4 +1,6 @@
 ebmt
 ====
 
-E-BMT
+E-BMT. 
+
+Fokus ke Sistem Informasi Penerima Manfaat. 
