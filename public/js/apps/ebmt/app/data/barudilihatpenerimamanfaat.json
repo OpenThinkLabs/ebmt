@@ -1,0 +1,12 @@
+{
+    "success": true,    
+    "results": [
+        {"id": 1, "nama_lengkap": "Led Zeppelin"}, 
+        {"id": 2, "nama_lengkap": "The Rolling Stones"}, 
+        {"id": 3, "nama_lengkap": "Daft Punk"},
+        {"id": 4, "nama_lengkap": "John Mayer"}, 
+        {"id": 5, "nama_lengkap": "Pete Philly &amp; Perquisite"}, 
+        {"id": 6, "nama_lengkap": "Black Star"},
+        {"id": 7, "nama_lengkap": "Macy Gray"}
+    ]
+}

@@ -1,0 +1,1 @@
+{{ javascript_include('js/app.js') }}

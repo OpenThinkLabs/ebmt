@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "results": [
+        {"kode_mustahik": 1, "nama_kk": "Led Zeppelin"}, 
+        {"kode_mustahik": 2, "nama_kk": "The Rolling Stones"}, 
+        {"kode_mustahik": 3, "nama_kk": "Daft Punk"}
+    ]
+}

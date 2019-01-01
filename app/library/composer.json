@@ -1,0 +1,6 @@
+{
+    "require": {
+            "doctrine/orm": "*",
+            "gedmo/doctrine-extensions": "dev-master"
+	       }
+}

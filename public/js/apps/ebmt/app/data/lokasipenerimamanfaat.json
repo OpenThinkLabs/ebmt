@@ -1,0 +1,59 @@
+[{
+    "text": "DKI Jakarta",
+    "children": [
+        {
+            "text": "Kepulauan Seribu",
+            "leaf": false,
+            "children":[
+              {
+                "text": "Kepulauan Seribu Utara",
+                "leaf": true              
+              },
+              {
+                "text": "Kepulauan Seribu Selatan",
+                "leaf": true              
+              }              
+            ]
+        },
+        {
+            "text": "Jakarta Selatan",
+            "leaf": true
+        },
+        {
+            "text": "Jakarta Timur",
+            "leaf": true
+        },
+        {
+            "text": "Jakarta Pusat",
+            "leaf": true
+        },        
+        {
+            "text": "Jakarta Barat",
+            "leaf": true
+        },
+        {
+            "text": "Jakarta Utara",
+            "leaf": true
+        }                                        
+    ],
+    "leaf": false
+},
+{
+    "text": "Aceh",
+    "children": [
+        {
+            "text": "Aceh Timur",
+            "leaf": true
+        },
+        {
+            "text": "Aceh Barat",
+            "leaf": true
+        },
+        {
+            "text": "Aceh Tengah",
+            "leaf": true
+        }
+    ],
+    "leaf": false
+},
+]

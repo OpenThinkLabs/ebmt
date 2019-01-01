@@ -1,0 +1,11 @@
+{
+    "success": true,    
+    "results": [
+        {"id": 1, "nama_lengkap": "Fulan 1"}, 
+        {"id": 2, "nama_lengkap": "Fulan 2"},
+        {"id": 3, "nama_lengkap": "Fulan 3"},
+        {"id": 4, "nama_lengkap": "Fulan 4"},
+        {"id": 5, "nama_lengkap": "Fulan 5"},
+        {"id": 6, "nama_lengkap": "Fulan 6"}	
+    ]
+}

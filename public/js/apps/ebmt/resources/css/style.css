@@ -1,0 +1,30 @@
+.header h1 {font-weight: bold;font-size: 1.5em;display: inline-block;margin:0 0 0 5px;line-height:.3em;}
+.header img {height:40px;vertical-align:middle;display: inline-block;}
+
+
+.thumb img{height: 260px;width: 280px;}
+.thumb-wrap{float: left;margin: 4px;margin-right: 0;padding: 5px;}
+.thumb-wrap span {display: block;overflow: hidden;text-align: center;width: 286px; /* for ie to ensure that the text is centered */}
+.x-item-over{border:1px solid #dddddd;background: #efefef repeat-x left top;padding: 4px;}
+.x-item-selected{background: #eff5fb no-repeat right bottom;border:1px solid #99bbe8;padding: 4px;}
+.x-item-selected .thumb{background:transparent;}
+.x-view-selector {position:absolute;left:0;top:0;width:0;border:1px dotted;opacity: .5;-moz-opacity: .5;filter:alpha(opacity=50);zoom:1;background-color:#c3daf9;border-color:#3399bb;}
+.ext-strict .ext-ie .x-tree .x-panel-bwrap{position:relative;overflow:hidden;}
+
+
+.icon_penerima_manfaat {background: url( '../images/icon/member.png' ) !important;}
+.icon_penerima_manfaat_individu {background: url( '../images/icon/user.png' ) !important;}
+.icon_penerima_manfaat_lembaga {background: url( '../images/icon/group.png' ) !important;}
+.icon_penerima_manfaat_program {background: url( '../images/icon/plugin.gif' ) !important;}
+.icon_penerima_manfaat_ajuan {background: url( '../images/icon/money_add.png' ) !important;}
+.icon_laporan {background: url( '../images/icon/details.gif' ) !important;}
+.icon_add {background: url( '../images/icon/plus.png' ) !important;}
+.icon_edit {background: url( '../images/icon/pencil.png' ) !important;}
+.icon_save {background: url( '../images/icon/save.png' ) !important;}
+.icon_delete {background: url( '../images/icon/error.png' ) !important;}
+.icon_search {background: url( '../images/icon/search.png' ) !important;}
+.icon_picture {background: url( '../images/icon/picture_inv.png' ) !important;}
+.icon_detail {background: url( '../images/icon/detail.png' ) !important;}
+.icon_login {background: url( '../images/icon/login.png' ) !important;}
+.icon_berkas {background: url( '../images/icon/article.gif' ) !important;}
+.icon_merge {background: url( '../images/icon/arrow_switch.png' ) !important;}
